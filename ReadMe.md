@@ -15,9 +15,10 @@ An overly optimized coin toss I made in my free time. Definitely would change a 
 
 ## THOUGHTS:
 - This was pretty fun to make, and I definitely want to come back in a while and do more optimizations
-
+===
+===
 - I got inspiration for this from the book "Algebra and Trigonometry: Structure and Method (Book 2)", by Houghton Mifflin
 - On page 738, there is a random example asking those with programming experience to create a coin toss.
 - And so I thought, "Hey, Memory was scarce back then! I'll make an overly optimzed coin toss."
-
+===
 - And so here it is. :)
