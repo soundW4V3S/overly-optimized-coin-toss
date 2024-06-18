@@ -8,7 +8,6 @@ int main() {
 	srand(time(NULL));
 
 	const unsigned short countMax = 10;
-	unsigned short array[countMax];
 
 	unsigned short headsTotal = shortZero;
 
@@ -29,12 +28,10 @@ int main() {
 
 		switch (i == (countMax - 1)) {
 			case true:
-				array[i] = r;
-				std::cout << array[i];
+				std::cout << r;
 				break;
 			default:
-				array[i] = r;
-				std::cout << array[i] << std::endl;
+				std::cout << r << std::endl;
 				break;
 		}
 		
