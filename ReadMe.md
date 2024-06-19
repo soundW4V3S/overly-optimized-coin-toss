@@ -23,5 +23,4 @@ An overly optimized coin toss I made in my free time. Definitely would change a 
 - And so here it is. :)
 
 ## NOTE:
-- I realize this probably seems simple to many people, but this was more just something fun for me to think about, since I love
-- working with binary and understanding little intricate details of C++
+- I realize this probably seems simple to many people, but this was more just something fun for me to think about, since I love working with binary and understanding little intricate details of C++
